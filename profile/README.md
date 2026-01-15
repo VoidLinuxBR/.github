@@ -20,7 +20,7 @@ Sem achismo. Sem metade de instruções. Só coisa validada.
 
 ## 📚 Repositórios principais
 
-- **tutoriais/** — Guias completos de instalação, pós-instalação, BTRFS, LUKS, ZRAM, PipeWire, DEs, serviços, etc.  
+- **tutoriais/** — Guias completos de instalação, pós-instalação, BTRFS, LUKS, ZRAM, PipeWire, DEs, Servidores, serviços, etc.  
 - **void-installer/** — Scripts, ferramentas e utilidades para automatizar partes do processo.  
 - **void-dev-tools/** — Ferramentas auxiliares para manutenção e desenvolvimento.
 
@@ -95,5 +95,106 @@ Ao utilizar qualquer informação deste repositório, você concorda que:
   **se responsabilizam por danos, perdas, falhas, corrupção de dados ou prejuízos de qualquer natureza**.
 
 Faça sempre **backup**, revise tudo com calma e execute comandos sabendo o que estão fazendo.
+
+---
+---
+
+# 🐧 Void Linux BR — Official Organization
+
+Welcome to **Void Linux BR**, the organization dedicated to creating, maintaining and sharing documentation, tools and resources for those using Void Linux in Brazil.
+
+Here we value the basics well done:
+**clarity, precision, real testing and objectivity.**
+
+---
+
+## 🎯 Our mission
+
+- Provide complete, reliable and up-to-date tutorials.
+- Create tools and wrappers that actually solve problems.
+- Making life easier for those who install, configure and use Void Linux on a daily basis.
+- Unite the Brazilian community in an organized and functional place.
+
+No guesswork. Without half instructions. Just validated things.
+
+---
+
+## 📚 Main repositories
+
+- **tutorials/** — Complete installation guides, post-installation, BTRFS, LUKS, ZRAM, PipeWire, DEs, Servers, services, etc.
+- **void-installer/** — Scripts, tools and utilities to automate parts of the process.
+- **void-dev-tools/** — Auxiliary tools for maintenance and development.
+
+*(Names and projects may change as they are created.)*
+
+---
+
+## 🤝 How to contribute
+
+The rule is simple:
+
+1. **Test before shipping.**
+2. No questionable or copied commands without validation.
+3. Clearly explain what is changing and why.
+4. Organization above all.
+
+Your PR doesn't have to be perfect — it just needs to be real.
+
+---
+
+## 🌐 Community
+
+- Telegram: **Void Linux BR**
+👉 https://t.me/VoidLinuxBrasil
+
+- YouTube: **@VoidLinuxBR**
+👉 https://www.youtube.com/@VoidLinuxBR
+
+---
+
+## 📄 Organization License
+
+All repositories follow the philosophy:
+**open source, free use and responsible sharing.**
+In most cases: MIT.
+
+---
+
+## 🦾 Why do we exist?
+
+Because loose and inconsistent documentation is more of a hindrance than a help.
+Here we want the opposite: everything centralized, clean, tested and ready to use.
+
+If it's Void Linux, and it's BR, it's here.
+
+---
+
+# ⚠️ Disclaimer
+
+This project and all its repositories:
+
+- **not** affiliated with official Void Linux;
+- **not** maintained, supervised or recognized by the Void Linux Foundation or the Void developers;
+- They **do not** represent the official team, nor do they speak on behalf of the Void Linux project.
+
+We are an **independent** community, created by experienced users who share knowledge based on real practice.
+
+### About responsibility
+
+All content available here is provided **without guarantee of operation, stability or security**.
+Tutorials, scripts, and instructions are based on real-world testing, but may:
+
+- break your system,
+- erase data,
+- generate unexpected behavior,
+- does not work on some machines/configurations.
+
+By using any information in this repository, you agree that:
+
+- **the risk is entirely yours**;
+- neither the Void Linux BR community, nor its collaborators, nor its administrators
+  **are responsible for damages, losses, failures, data corruption or losses of any nature**.
+
+Always make a **backup**, review everything calmly and execute commands knowing what they are doing.
 
 ---
