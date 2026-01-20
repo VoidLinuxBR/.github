@@ -44,7 +44,7 @@ Seu PR não precisa ser perfeito — só precisa ser real.
 ## 🌐 Comunidade
 
 - Telegram: **Void Linux BR**  
-  👉 https://t.me/VoidLinuxBrasil  
+  👉 https://t.me/VoidLinuxBR
 
 - YouTube: **@VoidLinuxBR**  
   👉 https://www.youtube.com/@VoidLinuxBR  
