@@ -145,7 +145,7 @@ Your PR doesn't have to be perfect — it just needs to be real.
 ## 🌐 Community
 
 - Telegram: **Void Linux BR**
-👉 https://t.me/VoidLinuxBrasil
+👉 https://t.me/VoidLinuxBR
 
 - YouTube: **@VoidLinuxBR**
 👉 https://www.youtube.com/@VoidLinuxBR
