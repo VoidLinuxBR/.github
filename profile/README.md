@@ -6,6 +6,19 @@ Aqui valorizamos o básico bem-feito:
 **clareza, precisão, teste real e objetividade.**
 
 ---
+## Configurar para utilizar os repositórios da VoidBR (recomendado)
+
+Se estiver utilizando o **Void Linux Oficial**, e após iniciar, adicione os repositórios da VoidBR:
+
+```bash
+{
+  echo 'repository=https://void.voidbr.org/voidlinux/current'
+  echo 'repository=https://void.voidbr.org/voidlinux/extra'
+  echo 'repository=https://repo-fastly.voidlinux.org/current'
+} | sudo tee /etc/xbps.d/00-repository-main.conf
+
+sudo xbps-install -Syu xbps libssh2
+```
 
 ## 🎯 Nossa missão
 
