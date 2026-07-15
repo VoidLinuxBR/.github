@@ -2,8 +2,12 @@
 
 Bem-vindo à **Void Linux BR**, a organização dedicada a criar, manter e compartilhar documentação, ferramentas e recursos para quem usa Void Linux no Brasil.
 
-Aqui valorizamos o básico bem-feito:  
-**clareza, precisão, teste real e objetividade.**
+Aqui valorizamos o básico bem-feito:
+- **Clareza**
+- **Precisão**
+- **Testes em ambiente real**
+- **Objetividade**
+- **Praticidade**
 
 ---
 ## Configurar para utilizar os repositórios da VoidBR (recomendado)
